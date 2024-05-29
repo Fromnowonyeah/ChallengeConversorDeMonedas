@@ -11,5 +11,9 @@ Este programa tiene tres funciones principales:
 
 3.- Conocer la tasa de cambio de las monedas que se quieren convertir.
 
+Este programa es para demostrar el uso de las API's dentro de los programas, con lo cual podemos delegar bastante trabajo de cálculos
+a terceros y así hacer más eficiente la programación. 
+
 Tecnologías usadas: Java.
+
 Desarrollador: Manuel Medrano (con ayuda del equipo Alura LATAM).
