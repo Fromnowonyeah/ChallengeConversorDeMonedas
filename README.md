@@ -13,6 +13,10 @@ Este programa tiene tres funciones principales:
 
 Este programa es para demostrar el uso de las API's dentro de los programas, con lo cual podemos delegar bastante trabajo de cálculos
 a terceros y así hacer más eficiente la programación. 
+Una vez que se ejecute el programa el usuario observará dentro del IDE el texto con las opciones a elegir, se pueden elegir
+opciones predeterminadas del número 1-6, o también se puede elegir la opción 7 en la cual tu mismo eliges el tipo de moneda a convertir
+y el tipo de moneda al cual se quiere convertir, simplemente se tiene que especificar el nombre de moneda como "USD" o "MXN",
+estos nombres tienen que ser los aceptados internacionalmente para que la API los pueda leer y proporcionar un resultado.
 
 Tecnologías usadas: Java.
 
